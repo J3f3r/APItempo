@@ -30,3 +30,4 @@ steps:
 
 - script: dotnet test $(solution) --configuration $(buildConfiguration) --no-build --collect:"XPlat-Code-Coverage"
   displayName: 'Build Solution'
+
