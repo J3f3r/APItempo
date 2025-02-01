@@ -1,7 +1,3 @@
-Aqui está um **README.md** bem estruturado para o seu projeto:  
-
----
-
 # 🌡️ Transformação de Temperaturas com Web API, Docker e Azure DevOps  
 
 Este repositório contém um projeto de **Web API** para conversão de temperaturas, desenvolvido em **Visual Studio**, utilizando **Docker** e implantado no **Azure** via **Azure DevOps Pipelines**. O objetivo é criar um fluxo de **CI/CD** eficiente e automatizado para deploy contínuo da aplicação no Azure.  
@@ -73,3 +69,5 @@ Este repositório contém um projeto de **Web API** para conversão de temperatu
 💬 **Contribuições são bem-vindas!** Caso tenha sugestões ou melhorias, abra um **Pull Request** ou entre em contato. 🚀  
 
 ---
+## REFERÊNCIAS 
+DIO AZ204
